@@ -10,4 +10,8 @@ Four key points produced from this analysis are as follows:
 
 1.  When filtering the employee database for the age of retiring employees, it appeared that 133,776 employees were of retirement age.
 2.  After further analysis, this number was higher beacause of duplicate titles causing duplicate employee listings. The actual number is 90,398 retirement age employees.
-3.  
+3.  The position title breakdown of retiring employees is displayed in figure 1. Hiring engineers should be prioritized. 
+4.
+
+### Figure 1
+![](Images/Image1.png)
